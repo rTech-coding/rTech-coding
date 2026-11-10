@@ -8,6 +8,6 @@
 ## 🗒️Repositories 🗒️
 *   **100% Open Source:** Explore, review, and contribute freely.
 *   **Fully Documented:** Guides included to help you get started quickly.
-*   
+  
 *Thanks for visiting! Feel free to reach out for collaborations or improvements.*
 
